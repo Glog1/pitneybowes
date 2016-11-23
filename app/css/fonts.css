@@ -1,0 +1,18 @@
+@font-face { font-family: 'icomoon'; 
+             src:url('../fonts/icomoon/icomoon.eot'); 
+             src:url('../fonts/icomoon/icomoon.eot') format('embedded-opentype'), 
+                 url('../fonts/icomoon/icomoon.woff') format('woff'), 
+                 url('../fonts/icomoon/icomoon.ttf') format('truetype'), 
+                 url('../fonts/icomoon/icomoon.svg') format('svg'); 
+             font-weight: normal; 
+             font-style: normal; }
+/* font-family: "CenturyGothicRegular"; */
+@font-face {
+    font-family: "CenturyGothicRegular";
+    src: url("../fonts/CenturyGothicRegular/CenturyGothicRegular.eot");
+    src: url("../fonts/CenturyGothicRegular/CenturyGothicRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/CenturyGothicRegular/CenturyGothicRegular.woff") format("woff"),
+    url("../fonts/CenturyGothicRegular/CenturyGothicRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
